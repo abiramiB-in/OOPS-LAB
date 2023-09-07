@@ -1,7 +1,9 @@
 import org.calc.*;
 import java.util.*;
-public class Test{
-public static void main(String[] args){
+public class Test
+{
+public static void main(String[] args)
+{
 Scanner sc=new Scanner(System.in);
 System.out.println("Enter the number ,a:");
 int a=sc.nextInt();
